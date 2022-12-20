@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="Hero.png" alt="AusSpeedruns Hero Image" />
+	<img src="https://github.com/ausspeedruns/.github/blob/main/profile/Hero.png" alt="AusSpeedruns Hero Image" />
 </div>
 
 <div align="center">
